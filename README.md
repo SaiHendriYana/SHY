@@ -1,2 +1,0 @@
-# SHY
-Latihan
